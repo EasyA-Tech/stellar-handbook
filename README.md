@@ -67,8 +67,6 @@ Going into the network level:
 Cool projects built on Stellar:
 
 - [SatoshiPay](https://satoshipay.io/) - A platform enabling content monetization and micropayments using Stellar.
-- [Tempo](https://tempo.eu.com/en) - A money transfer service leveraging Stellar for fast, low-cost international transactions.
-- [Wirex](https://wirexapp.com/business/stellar-partnership) - A digital payment platform offering Stellar-based stablecoins and crypto-enabled debit cards.
 
 ## Resources
 
