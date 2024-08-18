@@ -8,7 +8,8 @@ This handbook serves as a guide to the Stellar ecosystem, geared towards those j
 
 # The EasyA App
 
-Of course, the best place to start is always the [EasyA](https://www.easya.io) app! Download it here for the fastest and most fun way to learn about Stacks. Download it directly right [here](https://links.easya.io/links/gotoapp)! 
+Of course, the best place to start is always the [EasyA](https://www.easya.io) app! Download it here for the fastest and most fun way to learn about Stellar. Download it directly right [here](https://links.easya.io/links/gotoapp)! 
+
 
 ## Table of Contents
 
