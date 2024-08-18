@@ -6,6 +6,10 @@ Welcome. This is EasyA's legendary handbook. If you want to learn Stellar like a
 
 This handbook serves as a guide to the Stellar ecosystem, geared towards those just joining for the first time. It isn't just a beginners' handbook; it's a legendary handbook. Even if you've already immersed yourself in the ecosystem, you'll find tons of helpful tidbits around here!
 
+# The EasyA App
+
+Of course, the best place to start is always the [EasyA](https://www.easya.io) app! Download it here for the fastest and most fun way to learn about Stacks. Download it directly right [here](https://links.easya.io/links/gotoapp)! 
+
 ## Table of Contents
 
 - [Introduction](#introduction)
